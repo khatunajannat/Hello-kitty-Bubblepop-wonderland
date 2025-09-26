@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Audios\background.mp3">
+      <Filter>Source Files</Filter>
+    </Media>
+    <Media Include="Audios\gameover.mp3">
+      <Filter>Source Files</Filter>
+    </Media>
+    <Media Include="Audios\pop.mp3">
+      <Filter>Source Files</Filter>
+    </Media>
+    <Media Include="Audios\victory.mp3">
+      <Filter>Source Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="img\bg.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\bg2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\bg3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\cinnamon.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\cinnamon3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\gameover.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\leaderboard.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\lvl.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\quit_button.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\s1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\s2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\s3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\s5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\s6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\score_button.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\start_button.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\victory.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\victory2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="img\victory3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bitmap_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bubbleShoot.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glaux.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iGraphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
