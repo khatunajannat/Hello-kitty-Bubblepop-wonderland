@@ -125,6 +125,6 @@
 ---
 
 ## Project Report
-[Project Report: Hello Kitty Bubble Pop Wonderland]()
+[Project Report: Hello Kitty Bubble Pop Wonderland](https://drive.google.com/file/d/1HBi5psYkpR0YwS0QdMo2QJF6eVpKJm3M/view?usp=sharing)
 
 
